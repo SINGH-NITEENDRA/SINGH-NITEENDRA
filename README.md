@@ -29,7 +29,7 @@
 - GUI-based application using Tkinter  
 - Built on Kali Linux  
 
-👉 [View Project]((https://github.com/SINGH-NITEENDRA/-Steganography-Pro-Tool))
+👉 [View Project](https://github.com/SINGH-NITEENDRA/-Steganography-Pro-Tool)
 
 ---
 
